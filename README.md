@@ -13,4 +13,5 @@ Examples for CHANNELS:
 * RGB    for full color exchange  
 * RB     for red and blue exchange  
 * G      for only green exchange  
+
 no channel stated will change all colors  
