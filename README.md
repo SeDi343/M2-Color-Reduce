@@ -2,6 +2,7 @@
 
 COLOR REDUCTION @ v1.0
 Created by Sebastian Dichler, 2017
+
 Format input: colorreduce.exe INFILE OUTFILE FACTOR [CHANNELS]
               colorreduce.exe INFILE OUTFILE FACTOR [CHANNELS]
               
