@@ -139,8 +139,8 @@ void helpdesk_1(void)
     printf("\n");
     printf(BOLD"COLOR REDUCTION @ v1.0\n"RESET);
     printf(BOLD"Created by Sebastian Dichler, 2017\n"RESET);
-    printf("Format input:\t"BOLD"./colinvert INFILE OUTFILE FACTOR [CHANNELS]\n"RESET);
-    printf("\t\t"BOLD"./colinvert INFILE OUTFILE FACTOR"RESET" for RGB change.\n");
+    printf("Format input:\t"BOLD"./colreduce.out INFILE OUTFILE FACTOR [CHANNELS]\n"RESET);
+    printf("\t\t"BOLD"./colreduce.out INFILE OUTFILE FACTOR"RESET" for RGB change.\n");
     printf("Examples for CHANNELS:\n");
     printf(BOLD"RGB"RESET"\tfor full color exchange\n");
     printf(BOLD"RB"RESET"\tfor red and blue exchange\n");
