@@ -49,7 +49,7 @@ int main (int argc, char *argv[])
     
     if (argc < 4)
     {
-        printf(BOLD"\nERROR: Parameter Input ./colinvert INFILE OUTFILE FACTOR [CHANNELS]\n"RESET);
+        printf(BOLD"\nERROR: Parameter Input ./colreduce.out INFILE OUTFILE FACTOR [CHANNELS]\n"RESET);
         return -1;
     }
     
