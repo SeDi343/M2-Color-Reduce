@@ -2,7 +2,7 @@
 
 Start Program with Parameters
 
-Example: colorreduce INFILE OUTFILE FACTOR [CHANNELS]
+Example: colorreduce.exe INFILE OUTFILE FACTOR [CHANNELS]
 
 FACTOR can be 0 to MaxColor, normaly 255
 CHANNELS can be RGB, R or RG
